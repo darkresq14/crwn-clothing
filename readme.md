@@ -10,5 +10,6 @@ Redux-Logger
 Redux-Persist
 Lodash-Memoize
 React-Stripe-Checkout
+Styled-Components
 
 Live Project:  https://darky-crwn-clothing.herokuapp.com/

@@ -9,3 +9,4 @@ Redux
 Redux-Logger
 Redux-Persist
 Lodash-Memoize
+React-Stripe-Checkout

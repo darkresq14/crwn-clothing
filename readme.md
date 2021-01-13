@@ -7,3 +7,5 @@ Firebase
 React-Redux
 Redux
 Redux-Logger
+Redux-Persist
+Lodash-Memoize
